@@ -7,6 +7,32 @@
 
 }
 
+.cstTable{
+
+    width: 50vw;
+    background-color: aliceblue;
+    color: rgb(7, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    padding: 5px;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 35px;
+
+
+}
+
+.cstTable th{
+
+    width: 50vw;
+    background-color:blueviolet;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+
+
+}
 
 nav ul {
     display: flex;
